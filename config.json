@@ -11,9 +11,14 @@
   "solTreasuryAccount": "BvTRqEbNcQdpTgjnw53aAmcivy7i6AmCB1thtF12t9Rs",
   "splTokenAccount": null,
   "splToken": null,
-  "goLiveDate": "2022-09-11T23:55:17.642120+00:00",
+  "goLiveDate": "2022-09-12T04:55:17.642120+00:00",
   "endSettings": null,
-  "whitelistMintSettings": null,
+  "whitelistMintSettings": {
+    "mode": "neverBurn",
+    "mint": "28SzLfAU6UX8e7zgkAmvhB8cchfTUDipmt9XfQA6kVpH",
+    "presale": true,
+    "discountPrice": 0.5
+  },
   "hiddenSettings": null,
   "uploadMethod": "bundlr",
   "retainAuthority": true,
