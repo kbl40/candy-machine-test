@@ -1,0 +1,26 @@
+{
+  "price": 1.0,
+  "number": 10,
+  "gatekeeper": null,
+  "creators": [
+    {
+      "address": "BvTRqEbNcQdpTgjnw53aAmcivy7i6AmCB1thtF12t9Rs",
+      "share": 100
+    }
+  ],
+  "solTreasuryAccount": "BvTRqEbNcQdpTgjnw53aAmcivy7i6AmCB1thtF12t9Rs",
+  "splTokenAccount": null,
+  "splToken": null,
+  "goLiveDate": "2022-09-11T23:55:17.642120+00:00",
+  "endSettings": null,
+  "whitelistMintSettings": null,
+  "hiddenSettings": null,
+  "uploadMethod": "bundlr",
+  "retainAuthority": true,
+  "isMutable": true,
+  "symbol": "CRAB",
+  "sellerFeeBasisPoints": 100,
+  "awsConfig": null,
+  "nftStorageAuthToken": null,
+  "shdwStorageAccount": null
+}
